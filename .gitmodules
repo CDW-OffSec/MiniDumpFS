@@ -1,0 +1,7 @@
+[submodule "LeechCore"]
+	path = LeechCore
+	url = https://github.com/ufrisk/LeechCore.git
+[submodule "vmm"]
+	path = vmm
+	url = https://github.com/dru1d-foofus/MemProcFS.git
+	branch = vmm-submodule

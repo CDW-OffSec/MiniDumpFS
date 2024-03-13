@@ -1,0 +1,12 @@
+/.vs
+*.ilk
+*.iobj
+*.ipdb
+*.pyd
+*.so
+*.o
+info.db
+/files/temp
+/files/*.exe
+/files/*.dll
+/files/lib/*
